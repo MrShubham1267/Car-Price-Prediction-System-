@@ -1,7 +1,6 @@
 Flask 
 jsonify
 requests
-pickle
 numpy 
 sklearn
 gunicorn
