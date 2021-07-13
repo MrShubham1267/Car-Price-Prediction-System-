@@ -1,6 +1,6 @@
 # Car-Price-Prediction-System
 
-## WebApp : https://carpricepredictionapps.herokuapp.com/predict
+## WebApp : https://carpricepredictionapps.herokuapp.com/
 
 ## 📝 Description
 We are about to deploy an ML model for car selling price prediction and analysis. This kind of system becomes handy for many people.
